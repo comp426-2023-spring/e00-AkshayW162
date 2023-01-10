@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=capricious octopus trebuchet potatoes 123456
 
 echo ${EXAMCODE}
